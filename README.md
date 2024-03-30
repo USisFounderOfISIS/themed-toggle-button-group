@@ -89,7 +89,7 @@ CIRCULAR_REVEAL | FADE | HORIZONTAL_SLIDE
 --- | --- | ---
 ![demo](https://raw.githubusercontent.com/Bryanx/themed-toggle-button-group/master/demo-toggle-cards/assets/circular_reveal.gif) | ![demo](https://raw.githubusercontent.com/Bryanx/themed-toggle-button-group/master/demo-toggle-cards/assets/fade.gif) | ![demo](https://raw.githubusercontent.com/Bryanx/themed-toggle-button-group/master/demo-toggle-cards/assets/horizontal_slide.gif)
 
-VERTICAL_SLIDE | HORIZONTAL_WINDOW | VERTICAL_WINDOW
+VERTICAL_SLIDE | VERTICAL_WINDOW | HORIZONTAL_WINDOW
 --- | --- | ---
 ![demo](https://raw.githubusercontent.com/Bryanx/themed-toggle-button-group/master/demo-toggle-cards/assets/vertical_slide.gif) | ![demo](https://raw.githubusercontent.com/Bryanx/themed-toggle-button-group/master/demo-toggle-cards/assets/horizontal_window.gif) | ![demo](https://raw.githubusercontent.com/Bryanx/themed-toggle-button-group/master/demo-toggle-cards/assets/vertical_window.gif)
 
